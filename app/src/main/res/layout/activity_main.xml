@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_for_list"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="recyclerView for list"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:background="@color/colorAccent"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="10dp"
+        android:layout_marginBottom="20dp"
+       />
+
+    <TextView
+        android:id="@+id/txt_for_grid"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="recyclerView for grid"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:background="@color/colorAccent"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="10dp"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:id="@+id/txt_for_waterfall"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="recyclerView for waterfall"
+        android:textSize="18sp"
+        android:textColor="#fff"
+        android:background="@color/colorAccent"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="10dp"
+        android:layout_marginBottom="20dp"
+        />
+
+</LinearLayout>
