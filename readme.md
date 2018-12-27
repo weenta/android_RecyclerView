@@ -15,6 +15,11 @@ https://developer.android.com/reference/android/support/v7/widget/RecyclerView.L
 ## adapter
 `RecyclerView.Adapter`
 
+## notes
+- [for listView layout](https://github.com/weenta/android_RecyclerView/blob/master/recycler_list.md)
+- [for gridVeiw layout](https://github.com/weenta/android_RecyclerView/blob/master/recycler_grid.md)
+- [for waterfall layout](https://github.com/weenta/android_RecyclerView/blob/master/recycler_waterfall.md)
+
 ## TODO
 实现图片预览
 
